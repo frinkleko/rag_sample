@@ -1,0 +1,8 @@
+transformers==4.46.3
+sentence-transformers==3.2.1
+chromadb==0.5.23
+langchain
+langchain-community
+gradio
+pypdf
+openpyxl

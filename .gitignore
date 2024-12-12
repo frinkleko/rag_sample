@@ -1,7 +1,9 @@
+.gradio/*
 data_base/*
 *.pyc
 *.csv
 raw_docs/*
 test.py
+eval_result.xlsx
 
 
