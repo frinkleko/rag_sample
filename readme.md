@@ -1,5 +1,7 @@
 # A simple RAG System Implementation
 
+![](images/overview.png)
+
 A comprehensive Retrieval-Augmented Generation (RAG) system designed to enhance Large Language Model (LLM) responses by incorporating relevant context from a document database.
 
 ## Quick Start
